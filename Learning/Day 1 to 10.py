@@ -1,6 +1,6 @@
 # day 1 to day 10 
 
-'''print("Hello aniket")
+print("Hello aniket")
 a = 14354
 b = 8958498
 print(a+b)
@@ -75,12 +75,12 @@ b = 10
 print("the value of", a, "+", b, "is: ", a+b)
 print("the value of", a, "-", b, "is: ", a-b)
 print("the value of", a, "/", b, "is: ", a/b)
-print("the value of", a, "*", b, "is: ", a*b)'''
+print("the value of", a, "*", b, "is: ", a*b)
 
 #typecasting
-'''two types of typecasting
-Explicit Conversion (Explicit type casting in python) (comvert data   manually by devloper ex.string to int)
-Implicit Conversion (Implicit type casting in python) (convert data automatically by python)
+#two types of typecasting
+#Explicit Conversion (Explicit type casting in python) (comvert data   manually by devloper ex.string to int)
+#Implicit Conversion (Implicit type casting in python) (convert data automatically by python)
 #Explicit
 a = 5
 b = 3
@@ -111,4 +111,4 @@ x =input("Enter the first number:")
 y = input("enter the second number:")
   #input function only string output 
 
-print(int(x) + int(y))'''
+print(int(x) + int(y))
