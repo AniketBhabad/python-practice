@@ -1,6 +1,6 @@
 #STRING
 
-'''name = "Aniket"
+name = "Aniket"
 print("hello,"+name)
 
 print('he said,"i want to eat apple".')
@@ -13,7 +13,7 @@ print(name[2])
 print(name[3])
 print(name[4])
 print(name[5])
- print(name[0:6]) 
+print(name[0:6]) 
 
 for characters in name:
     print(name)
@@ -153,7 +153,7 @@ if (appleprice <= budget):
 else:
     print("don't pack")   # this is if - else statment
 
-num = 
+num = 0
 if (num < 0):
     print("number is negative")
 elif (num == 0):
@@ -330,11 +330,10 @@ d = 4
 calcuate(c,d)
 isgreater(c,d)
 #mean2 = c*d
-#print(mean2)'''
+#print(mean2)
+# final
 
-def a (a):
-    print(a)
-a = ("aniket")
+
 
 
 
